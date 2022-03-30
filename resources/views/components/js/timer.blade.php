@@ -32,7 +32,7 @@
 </div>
 <hr>
 <div>
-    <h1 id="timer" class="text-center" id="timer" style="font-size: 5em;">00:00:00</h1>
+    <h1 class="text-center" style="font-size: 5em;">00:00:00</h1>
 </div>
 <hr>
 <div class="row">

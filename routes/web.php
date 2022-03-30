@@ -29,6 +29,9 @@ Route::get('/javascript', function () {
     return view('javascript');
 })->name('javascript');
 
+Route::get('/jquery', function () {
+    return view('jquery');
+})->name('jquery');
 
 Route::get('/alpinejs', function () {
     return view('alpinejs');

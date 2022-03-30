@@ -71,7 +71,6 @@ function decreaseHour(x, h) {
         x.disabled = true;
     } else {
         h.value = parseInt(h.value) - 1;
-
     }
 }
 

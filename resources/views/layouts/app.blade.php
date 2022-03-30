@@ -85,6 +85,14 @@
                             </a>
                         </li>
                         <li>
+                            <a href="{{ route('jquery') }}" class="nav-link text-white">
+                                <div class="bi d-block mx-auto mb-1" width="24" height="24">
+                                    <i class="fa-solid fa-j w-100 fa-xl"></i>
+                                </div>
+                                Jquery
+                            </a>
+                        </li>
+                        <li>
                             <a href="{{ route('alpinejs') }}" class="nav-link text-white">
                                 <div class="bi d-block mx-auto mb-1" width="24" height="24">
                                     <i class="fa-solid fa-mountain w-100 fa-xl"></i>
